@@ -13,6 +13,12 @@
   <h3 align="right">DRIVE AWAY FROM
   $46,990</h1>  <img align="center" width="400" height="300" src="tuscon9.png"/>
   
+  <h3>2023 i30 N</h3>
+  <h6>2023 i30 N  Hatchback 2.0 T-GDi Petrol 6-Speed Manual FWD</h6>
+
+  <img  width="300" height="200" src="Screenshot 2024-11-25 155859.png"/>
+  <h4 align="left"> Hyundai Bonus Offers</h5>
+  <h5>$3000 CASHBACK </h5>
 
 
   
