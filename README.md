@@ -10,6 +10,9 @@
   Pick a car to start your Hyundai Journey.
 
 <h3 align="left">Tuscon Hybrid  <h6> TUSCON SUV 1.6L T-GDi Hybrid 6 Speed Automotive FWD 
-  <h5 align="right"> DRIVE AWAY FROM  </h5>  <img align="center" width="400" height="300" src="tuscon9.png"/>
+  <h3 align="right">DRIVE AWAY FROM
+  $46,990</h1>  <img align="center" width="400" height="300" src="tuscon9.png"/>
+  
+
 
   
