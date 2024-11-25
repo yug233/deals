@@ -11,6 +11,8 @@
 
 <h3 align="left">Tuscon Hybrid  <h6> TUSCON SUV 1.6L T-GDi Hybrid 6 Speed Automotive FWD 
   <h6 align="right">DRIVE AWAY FROM</h6> <h3 align="right">$47,585.00</h3> </h1> <img align="center" width="500" height="300" src="Screenshot 2024-11-25 162101.png"/>
+
+  
   
   
   
@@ -32,6 +34,13 @@
 
   <h3 align="left"> i30 Sedan<h6>i30n CD7 i30 Sedan Smartstream G2.0 IVT FWD</h6>
      <h6 align="right">DRIVE AWAY FROM</h6> <h3 align="right">$29,990</h3><img align="center" width="350" height="200" src="Screenshot 2024-11-25 163546.png"/>
-     
 
-  
+<h3 align="left"> PALISADE ELITE-7 Seat                    
+<h6>Elite 7S 3.8L V6 Petrol GDi 8-Speed Automatic FWD</h6>
+<img src="Screenshot 2024-11-25 171433.png" width="300" height="200"/>
+<h4>HYUNDAI BONUS OFFER</h4>
+<h5>$3000</h5>
+<h6>Runnot Bonus on In-StocK MY24 Vechiles</h6>
+<h3>PLUS:</h3>
+<h5>$5000</h5>  
+<h6>Deposit Contribustion to Hyudnai Fiance</h6>
