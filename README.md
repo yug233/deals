@@ -43,4 +43,7 @@
 <h6>Runnot Bonus on In-StocK MY24 Vechiles</h6>
 <h3>PLUS:</h3>
 <h5>$5000</h5>  
-<h6>Deposit Contribustion to Hyudnai Fiance</h6>
+<h6>Deposit Contribustion to Hyudnai Finance</h6>
+
+  <h3 align="left"> i30 Sedan<h6>i30n CD7 i30 Sedan Smartstream G2.0 IVT FWD</h6>
+     <h6 align="right">DRIVE AWAY FROM</h6> <h3 align="right">$29,990</h3><img align="center" width="350" height="200" src="Screenshot 2024-11-25 163546.png"/>
