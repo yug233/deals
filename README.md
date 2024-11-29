@@ -45,5 +45,5 @@
 <h5>$5000</h5>  
 <h6>Deposit Contribustion to Hyudnai Finance</h6>
 <h2>Black Firday Speical!</h2>
-  <h3 align="left"> Staria Load Van<h6>Staria-Load Van L-Back 2.2L diesel 8-Speed Automatic FWD</h6>
-     <h6 align="right">DRIVE AWAY FROM</h6> <h3 align="right">$30,990</h3><img align="center" width="350" height="200" src="Screenshot 2024-11-27 165625.png"/>
+  <h3 align="left">  Staria Load Van<h6>Staria-Load Van L-Back 2.2L diesel 8-Speed Automatic FWD</h6>
+     <h6 align="right">DRIVE AWAY FROM</h6> <h3 align="right">$33500</h3><h6 align="right">(originally $47990)</h6></h3><img align="center" width="350" height="200" src="Screenshot 2024-11-27 165625.png"/>
