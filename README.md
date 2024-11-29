@@ -4,10 +4,8 @@
 
 <img src="ready set.png" width="1300" height="500"/>
 
-<h3 align="center"> Introduction</h3>
-<h6 align="left"> Whether you are looking for a city bound small car or a 
-  SUV for adventure now is the perfect time to drive away in an Hyundai car. 
-  Pick a car to start your Hyundai Journey.
+<h3 align="center"> </h3>
+
 
 <h3 align="left">Tuscon Hybrid  <h6> TUSCON SUV 1.6L T-GDi Hybrid 6 Speed Automotive FWD 
   <h6 align="right">DRIVE AWAY FROM</h6> <h3 align="right">$47,585.00</h3> </h1> <img align="center" width="500" height="300" src="Screenshot 2024-11-25 162101.png"/>
